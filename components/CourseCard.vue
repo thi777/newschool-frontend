@@ -121,8 +121,9 @@ export default {
 }
 
 .v-card__title {
+  margin-bottom: 5px;
   font-weight: 600;
-  font-size: 1em;
+  font-size: 0.95em;
   padding: 0.5em 0 0;
   line-height: 1em;
   color: #1a1a1a;

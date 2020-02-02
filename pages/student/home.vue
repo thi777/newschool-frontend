@@ -90,7 +90,7 @@ export default {
 
 h1 {
   font-weight: 900;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 24px;
 }
 .welcome-title {
@@ -99,7 +99,7 @@ h1 {
 
 .welcome-subtitle {
   color: #6600cc;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 @media screen and (orientation: portrait) {
